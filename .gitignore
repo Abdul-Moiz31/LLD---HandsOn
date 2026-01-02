@@ -1,0 +1,16 @@
+node_modules
+.env.development.local
+.env.test.local
+.env.production.local
+coverage
+.DS_Store
+.idea
+.vscode
+.history
+.cursorrules
+.cursorignore
+.cursorignore
+config.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat

@@ -5,7 +5,6 @@ node_modules
 coverage
 .DS_Store
 .idea
-.vscode
 .history
 .cursorrules
 .cursorignore
